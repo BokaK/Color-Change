@@ -1,0 +1,75 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WindowsFormsApplication1
+{
+    class VertLinii : Shape
+    {
+        public int count { get; set; }
+        public VertLinii(float x, float y, int c) : base(x, y)
+        {
+            count = c;
+        }
+
+
+        public override void Draw(Graphics g)
+        {
+            Pen p1 = new Pen(Color.Firebrick, 3);
+            Pen p2 = new Pen(Color.IndianRed, 3);
+            Pen p3 = new Pen(Color.RosyBrown, 3);
+            Pen p4 = new Pen(Color.MistyRose, 3);
+            if (count % 4 == 0)
+            {
+                g.DrawLine(p1, X + 30, Y, X + 30, Y - 60);
+                g.DrawLine(p2, X + 60, Y, X  + 60 , Y - 60);
+                g.DrawLine(p3, X + 90, Y, X + 90, Y - 60);
+                g.DrawLine(p4, X + 120, Y, X + 120, Y - 60);
+                g.DrawLine(p1, X + 150, Y, X + 150, Y - 60);
+                g.DrawLine(p2, X + 180, Y, X + 180, Y - 60);
+                g.DrawLine(p3, X + 210, Y, X + 210, Y - 60);
+                g.DrawLine(p4, X + 240, Y, X + 240, Y - 60);
+            }
+            if (count % 4 == 1)
+            {
+                g.DrawLine(p1, X + 60, Y, X + 60, Y - 60);
+                g.DrawLine(p2, X + 90, Y, X + 90, Y - 60);
+                g.DrawLine(p3, X + 120, Y, X + 120, Y - 60);
+                g.DrawLine(p4, X + 150, Y, X + 150, Y - 60);
+                g.DrawLine(p2, X + 180, Y, X + 180, Y - 60);
+                g.DrawLine(p3, X + 210, Y, X + 210, Y - 60);
+                g.DrawLine(p4, X + 240, Y, X + 240, Y - 60);
+                g.DrawLine(p4, X + 270, Y, X + 270, Y - 60);
+            }
+            if (count % 4 == 2)
+            {
+                g.DrawLine(p1, X + 30, Y, X + 30, Y - 60);
+                g.DrawLine(p2, X + 60, Y, X + 60, Y - 60);
+                g.DrawLine(p3, X + 90, Y, X + 90, Y - 60);
+                g.DrawLine(p4, X + 120, Y, X + 120, Y - 60);
+                g.DrawLine(p1, X + 150, Y, X + 150, Y - 60);
+                g.DrawLine(p2, X + 180, Y, X + 180, Y - 60);
+                g.DrawLine(p3, X + 210, Y, X + 210, Y - 60);
+                g.DrawLine(p4, X + 240, Y, X + 240, Y - 60);
+            }
+            if (count % 4 == 3)
+            {
+                g.DrawLine(p1, X + 60, Y, X + 60, Y - 60);
+                g.DrawLine(p2, X + 90, Y, X + 90, Y - 60);
+                g.DrawLine(p3, X + 120, Y, X + 120, Y - 60);
+                g.DrawLine(p4, X + 150, Y, X + 150, Y - 60);
+                g.DrawLine(p2, X + 180, Y, X + 180, Y - 60);
+                g.DrawLine(p3, X + 210, Y, X + 210, Y - 60);
+                g.DrawLine(p4, X + 240, Y, X + 240, Y - 60);
+                g.DrawLine(p4, X + 270, Y, X + 270, Y - 60);
+            }
+            p1.Dispose();
+            p2.Dispose();
+            p3.Dispose();
+            p4.Dispose();
+        }
+    }
+}
