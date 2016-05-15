@@ -1,0 +1,172 @@
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\vizuelno programiranje\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AnastasijaC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Boka\Downloads\33 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Downloads\33 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Downloads\33 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boka\Documents\Visual Studio 2015\Projects\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nadica-PC\Downloads\Color-change\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nadica-PC\Downloads\aa\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boka\Desktop\ll\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\ll\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boka\Desktop\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Downloads\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boka\Desktop\Color-change\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Medium.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\FINKI\IV Семестар\Визуелно програмирање\proekt\Color-change - 2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\New-folder\New folder\18\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Downloads\New-folder\New folder\18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\New-folder\New folder\18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Downloads\New-folder\New folder\ana3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Downloads\New-folder\New folder\ana3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Downloads\New-folder\New folder\ana3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
